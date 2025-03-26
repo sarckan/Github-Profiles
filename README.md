@@ -20,6 +20,15 @@ This project is a simple web application that allows users to search for GitHub 
 - Axios (for making API requests)
 - GitHub API
 
+
+## Screenshots
+
+Here is a screenshot of the application:
+
+![GitHub Profiles Viewer Screenshot](Images/Screenshot1.png);
+![GitHub Profiles Viewer Screenshot](Images/Screenshot2.png);
+![GitHub Profiles Viewer Screenshot](Images/Screenshot3.png);
+
 ## How to Use
 
 1. Clone the repository:
@@ -28,18 +37,21 @@ This project is a simple web application that allows users to search for GitHub 
 ```
 ## Navigate to the project directory:
 
-
 Open ``index.html`` in your browser to use the application.
 
 ## Project Structure
 
 ```
 github-profiles/
-├── [index.html]
-├── [style.css]     
-├── [script.js]       
-├── README.md        
-└── LICENSE         
+├── Images/
+│   └── screenshot1.png
+│   └── screenshot2.png
+│   └── screenshot3.png
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── LICENSE     
 ```
 
 ### License
